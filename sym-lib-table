@@ -1,0 +1,7 @@
+(sym_lib_table
+  (version 7)
+  (lib (name "oxide_spimux")(type "Legacy")(uri "${KIPRJMOD}/oxide_spimux.lib")(options "")(descr ""))
+  (lib (name "gimletlet-cache")(type "Legacy")(uri "${KIPRJMOD}/../gimletlet-2/gimletlet-cache.lib")(options "")(descr ""))
+  (lib (name "ignitionlet-cache")(type "Legacy")(uri "${KIPRJMOD}/../ignitionlet/ignitionlet-cache.lib")(options "")(descr ""))
+  (lib (name "spimux-rescue")(type "KiCad")(uri "${KIPRJMOD}/spimux-rescue.kicad_sym")(options "")(descr ""))
+)
