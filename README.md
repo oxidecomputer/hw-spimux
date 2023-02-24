@@ -1,4 +1,9 @@
 # hw-spimux
+![](<https://img.shields.io/badge/-Kicad 7-blue>)
+![](<https://img.shields.io/badge/-Active-green>)
+![](<https://img.shields.io/badge/-MCNs not integrated-orange>)
+
+
 PMOD Quad SPI flash mux debug board
 Breaks out the Gimletlet QSPI port to a MT25QU256ABA8E12 Flash memory IC.
 ![spi_mux_render](docs/spimux.png)
